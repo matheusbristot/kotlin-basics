@@ -1,7 +1,7 @@
 # kotlin-basics
 
 ### Introdução
-Olá, este projeto é voltado a pessoas que tem conhecimento minimo ao avançado em Java e com aparição do Kotlin, sentiu-se a necessidade de aumentar a perfomance desta tão poderosa linguagem de programação.
+Olá, este projeto é voltado a pessoas que tem conhecimento minimo ao avançado em Java e com aparição do Kotlin, sentiu-se a necessidade de aumentar a perfomance utilizando esta poderosa linguagem de programação.
 
 ### Como iniciar
 
